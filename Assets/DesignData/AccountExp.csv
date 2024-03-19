@@ -1,0 +1,13 @@
+﻿테이블 이름,AccountExp,,
+테이블 설명,계정 레벨 별 경험치,,
+,,,
+,,,
+,string,int,int
+,키,레벨,필요 경험치
+,Key,Level,NeedExp
+,Account_Lv1,1,100
+,Account_Lv2,2,108
+,Account_Lv3,3,116
+,Account_Lv4,4,125
+,Account_Lv5,5,134
+,Account_Lv6,6,144
