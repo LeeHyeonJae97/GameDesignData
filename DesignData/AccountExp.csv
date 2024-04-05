@@ -1,0 +1,18 @@
+﻿테이블 이름,AccountExp,,,,,
+테이블 설명,계정 레벨 별 경험치,,,,,
+,,,,,,
+,,,,,,
+,string,int[],,,int,ItemType
+,키,레벨,,,필요 경험치,아이템 타입
+,Key1,Level1,,,NeedExp1,ItemType
+,Account_Lv1,1,1,1,1,Account_Lv1
+,Account_Lv2,2,2,2,2,Account_Lv2
+,Account_Lv3,3,3,3,3,Account_Lv3
+,Account_Lv4,4,4,4,4,Account_Lv4
+,Account_Lv5,5,5,5,5,Account_Lv5
+,Account_Lv6,6,6,6,6,Account_Lv6
+,Account_Lv7,7,7,7,7,Account_Lv7
+,Account_Lv8,8,8,8,8,Account_Lv8
+,Account_Lv9,9,9,9,9,Account_Lv9
+,Account_Lv10,10,10,10,10,Account_Lv10
+,Account_Lv11,11,11,11,11,Account_Lv11

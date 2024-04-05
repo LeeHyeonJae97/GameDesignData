@@ -1,0 +1,18 @@
+﻿테이블 이름,Enum,,,
+테이블 설명,,,,
+,,,,
+,,,,
+,,,,
+,키,,이야기,
+,ItemType,,DLG_START_TRIGGER_TYPE,
+,Account_Lv1,a,a,aaa
+,Account_Lv2,b,b,aaa
+,Account_Lv3,c,c,aaa
+,Account_Lv4,d,d,aaa
+,Account_Lv5,a,e,aaa
+,Account_Lv6,b,f,aaa
+,Account_Lv7,c,g,aaa
+,Account_Lv8,d,h,aaa
+,Account_Lv9,a,i,aaa
+,Account_Lv10,b,,
+,Account_Lv11,c,,
